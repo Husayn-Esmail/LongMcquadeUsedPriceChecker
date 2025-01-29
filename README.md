@@ -25,6 +25,7 @@ python3 -f [filename] # use this if the data was gathered, the file created, but
 
 ``` 
 
+![demo of program]('demo.gif')
 
 Author: Husayn Esmail
 Created on: sometime in January 2025.
